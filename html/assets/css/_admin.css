@@ -1,13 +1,14 @@
 .admin-site {
     width: 100% !important;
     max-width: 100%;
-    font-family: 'NanumSquareNeo';
+    font-family: 'Paperlogy';
     padding: 20px;
 
     header h1 {
         border-bottom: 1px solid #e8e8e8;
         text-align: center;
         padding-bottom: 10px;
+        font-family: 'Paperlogy';
     }
 
     main {
@@ -63,10 +64,17 @@
             }
 
             td {
-                padding: 3px 5px;
+                padding: 6px 5px;
                 border-bottom: 1px solid #e0e0e0;
-                font-size: 14px;
+                font-size: 16px;
                 white-space: nowrap;
+            }
+
+            td.img img {
+                width: 50px;
+                height: 50px;
+                vertical-align: middle;
+                border-radius: 5px;
             }
 
             td.center {

@@ -43,111 +43,84 @@
     font-display: swap;
 }
 
-/* Pretendard Thin (100) */
+
+/* Paperlogy Thin (100) */
 @font-face {
-    font-family: 'Pretendard';
-    src: url('../fonts/Pretendard-Thin.woff2') format('woff2');
+    font-family: 'Paperlogy';
+    src: url('../fonts/Paperlogy-Thin.woff2') format('woff2');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
 }
 
-/* Pretendard ExtraLight (200) */
+/* Paperlogy ExtraLight (200) */
 @font-face {
-    font-family: 'Pretendard';
-    src: url('../fonts/Pretendard-ExtraLight.woff2') format('woff2');
+    font-family: 'Paperlogy';
+    src: url('../fonts/Paperlogy-ExtraLight.woff2') format('woff2');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
 }
 
-/* Pretendard Light (300) */
+/* Paperlogy Light (300) */
 @font-face {
-    font-family: 'Pretendard';
-    src: url('../fonts/Pretendard-Light.woff2') format('woff2');
+    font-family: 'Paperlogy';
+    src: url('../fonts/Paperlogy-Light.woff2') format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
 
-/* Pretendard Regular (400) */
+/* Paperlogy Regular (400) */
 @font-face {
-    font-family: 'Pretendard';
-    src: url('../fonts/Pretendard-Regular.woff2') format('woff2');
+    font-family: 'Paperlogy';
+    src: url('../fonts/Paperlogy-Regular.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
 
-/* Pretendard Medium (500) */
+/* Paperlogy Medium (500) */
 @font-face {
-    font-family: 'Pretendard';
-    src: url('../fonts/Pretendard-Medium.woff2') format('woff2');
+    font-family: 'Paperlogy';
+    src: url('../fonts/Paperlogy-Medium.woff2') format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
 
-/* Pretendard SemiBold (600) */
+/* Paperlogy SemiBold (600) */
 @font-face {
-    font-family: 'Pretendard';
-    src: url('../fonts/Pretendard-SemiBold.woff2') format('woff2');
+    font-family: 'Paperlogy';
+    src: url('../fonts/Paperlogy-SemiBold.woff2') format('woff2');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
 }
 
-/* Pretendard Bold (700) */
+/* Paperlogy Bold (700) */
 @font-face {
-    font-family: 'Pretendard';
-    src: url('../fonts/Pretendard-Bold.woff2') format('woff2');
+    font-family: 'Paperlogy';
+    src: url('../fonts/Paperlogy-Bold.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
 }
 
-/* Pretendard ExtraBold (800) */
+/* Paperlogy ExtraBold (800) */
 @font-face {
-    font-family: 'Pretendard';
-    src: url('../fonts/Pretendard-ExtraBold.woff2') format('woff2');
+    font-family: 'Paperlogy';
+    src: url('../fonts/Paperlogy-ExtraBold.woff2') format('woff2');
     font-weight: 800;
     font-style: normal;
     font-display: swap;
 }
 
-/* Pretendard Black (900) */
+/* Paperlogy Black (900) */
 @font-face {
-    font-family: 'Pretendard';
-    src: url('../fonts/Pretendard-Black.woff2') format('woff2');
+    font-family: 'Paperlogy';
+    src: url('../fonts/Paperlogy-Black.woff2') format('woff2');
     font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-
-
-/* GmarketSans Light (300) */
-@font-face {
-    font-family: 'GmarketSans';
-    src: url('../fonts/GmarketSans-Light.woff2') format('woff2');
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-
-/* GmarketSans Medium (500) */
-@font-face {
-    font-family: 'GmarketSans';
-    src: url('../fonts/GmarketSans-Medium.woff2') format('woff2');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-
-/* GmarketSans Bold (700) */
-@font-face {
-    font-family: 'GmarketSans';
-    src: url('../fonts/GmarketSans-Bold.woff2') format('woff2');
-    font-weight: 700;
     font-style: normal;
     font-display: swap;
 }

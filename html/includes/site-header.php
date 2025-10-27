@@ -8,7 +8,7 @@
         <div class="header-group">
             <h1>
                 <a href="/">
-                    <img src="/assets/img/logo.png" alt="010number">
+                    kcalzoa
                 </a>
             </h1>
             <div class="header-btn">
